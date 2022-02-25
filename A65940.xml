@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of the VVidow VVhitrowe to King William with a faithful warning to the inhabitants of England to haste and prepare by true repentance and deep humiliation to meet the Lord, before his indignation burns like fire and breaks forth into a mighty flame so that none can quench it.</title>
+            <author>Whitrowe, Joan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65940</idno>
+            <idno type="STC">Wing W2033</idno>
+            <idno type="STC">ESTC R9736</idno>
+            <idno type="EEBO-CITATION">12643246</idno>
+            <idno type="OCLC">ocm 12643246</idno>
+            <idno type="VID">65057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 338:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of the VVidow VVhitrowe to King William with a faithful warning to the inhabitants of England to haste and prepare by true repentance and deep humiliation to meet the Lord, before his indignation burns like fire and breaks forth into a mighty flame so that none can quench it.</title>
+                  <author>Whitrowe, Joan.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J. Whitrowe.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65057:1" rendition="simple:additions"/>
+            <p>THE <hi>Humble Addr<add>e</add>ſs</hi> OF THE VVidow VVhitrowe TO King William:</p>
+            <p>With a FAITHFUL WARNING To the Inhabitants of England, TO Haſte and Prepare by True Repentance, and Deep Humiliation, to meet the LORD, Before His Indignation burns like Fire, and breaks forth into a mighty Flame, ſo that none can quench it.</p>
+            <p>Printed in the Year, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:65057:2"/>
+            <pb n="3" facs="tcp:65057:2"/>
+            <head>THE HUMBLE ADDRESS OF THE VVidow VVhitrowe TO <hi>King William,</hi> &amp;c.</head>
+            <p>
+               <hi>GOD SAVE THE KING FOR EVER:</hi> For that is the deſire of my Soul to GOD for thee, and for all Mankind, which is the chief end of my Writing to the King at this time: And my humble Petition and Requeſt to the King is, that his de<g ref="char:EOLhyphen"/>light may be in the Law of the LORD, and in HIS Law to have thy Meditation day and night.</p>
+            <p>For this was the Word which GOD put into my Heart for thee, when I was going on the Way near <hi>Putny;</hi> and hearing the King was to come that way, I ſtood ſtill to ſee him; and whilſt I ſtood ſtill, theſe were the Words that did riſe in my Heart to thee, Oh King.</p>
+            <p>
+               <hi>Bleſſed is the Man that doth not walk in the Counſel of the Wicked, nor ſtand in the Way of Sinners, nor ſit in the Seat of the Scornful; but his delight is in the Law of the LORD, and in His Law doth he meditate Day and Night; For this is he that ſhall be as a Tree planted by the Rivers of Water, that will bring forth his Fruit in due ſeaſon, whoſe Leaf ſhall not fade; ſo that whatſoever he ſhall do, it ſhall proſper: but the Wicked are not ſo, but are like the Chaff which the Wind driveth away.</hi>
+            </p>
+            <p>Theſe were the weighty Words; but I ſaw not thy Face at that time: But another time, as I was going by
+<pb n="4" facs="tcp:65057:3"/>Water, I met thee going to land at <hi>Whitehall,</hi> and our Boat ſtanding ſtill, I felt the power of GOD's Love ſo to thee, that it tranſported my Spirit into a Heavenly Joy; I was drawn forth into Prayer, and theſe were ſome of the Words; <hi>LORD be Thou his Counſellor: LORD be Thou his Directer.</hi> And ſo I departed in this holy Extaſie, making my requeſt to GOD for thee: Put after this, I ſaw thee upon <hi>Eaſt-Sheen-Common,</hi> where thou waſt taking thy pleaſure in Hunting: I was much grieved to ſee the King ſpending his precious time in ſuch a vain Exerciſe, in ſuch a day as this, when the Na<g ref="char:EOLhyphen"/>tion lies bleeding, the People wallowing in their Blood of Uncleanneſs, and all manner of Abominations, whoſe Sins are of a Scarlet Dye, and cries aloud in the Ears of the LORD GOD for Vengeance: Oh King! is this a day for Pleaſure, when the Righteous GOD is oppreſſed under the Sins of the People as a Cart is preſſed with Sheaves? I beſeech thee conſider the end of the LORD, in bringing thee into this Nation, was it to do thy own Will, or the Will of Him that ſent thee? For thou haſt lived to ſee ſome of the great Acts of the LORD in this thy day, as others did in the days of old, when one cha<g ref="char:EOLhyphen"/>ſed a thouſand, and five put ten thouſand to flight; yea, how did the Mighty fly before thee, when none perſu<g ref="char:EOLhyphen"/>ed them? And if GOD prolong thy days, thou wilt ſee greater things then theſe; for the LORD will work Wonders in this the day of <hi>His</hi> mighty Power, as He did in <hi>Egypt,</hi> and at the Red-Sea; and for this end, to get Himſelf a Name above every Name, to exalt <hi>His</hi> glori<g ref="char:EOLhyphen"/>ous Name in the Earth, that all may know that He is the LORD, and that man is but man: As thou, O King, art a witneſs, that it was not thy Sword, nor thy Might that brought thee hither, but the LORD's own Arm which <hi>He</hi> made bare in the ſight of all. And now I be<g ref="char:EOLhyphen"/>ſeech thee conſider how highly thou art ingaged to the
+<pb n="5" facs="tcp:65057:3"/>LORD for all his Goodneſs; and what wilt thou return to the KING of Eternal Glory, but to love <hi>Him</hi> with all thy Heart and Soul, Strength and Might, and thy Neighbour as thy ſelf; and to do Juſtice, and love Mer<g ref="char:EOLhyphen"/>cy, and to walk humbly with the LORD; for this is the whole Duty of Man, to love GOD and keep his Com<g ref="char:EOLhyphen"/>mandments, to viſit the Widow and Fatherleſs in their Afflictions, and to keep thy ſelf unſpotted from the World; to love our Enemies, to do good for evil, to overcome evil with good; as our bleſſed LORD and Saviour Jeſus Chriſt commanded, <hi>Whatever ye would that men ſhould do unto you, do ye that unto them:</hi> Oh theſe are bleſſed Rules for men to walk by, for the King and his Nobles to put into practice: Theſe are the Rules that the holy men of GOD gave forth as they were moved by the Spirit of GOD, as the holy Apoſtle ſaith, <hi>That the man of GOD be perfect, and intire, wanting nothing, but furniſhed for every good Work.</hi> And ſaith our LORD and bleſſed Saviour, <hi>Be ye merciful as your Heavenly Father is merciful.</hi> And King <hi>David</hi> ſaith, <hi>LORD with the merciful Thou wilt ſhew Thy Self merciful, and with the pure Thou wilt ſhew thyſelf pure.</hi> This made <hi>David</hi> call upon GOD ſo earneſtly, to make him pure, even as GOD is pure; and this made him merciful to forgive his Enemies ſo often; for he knew the benefit would return to him again, both from GOD and Man; and as there was great Goodneſs in it, ſo there was great Policy, for it won the Affection of the People, ſo as that there Hearts were bowed to him, as the Heart of one man. And now O King, ſeeing thou art compaſſed about with ſo great a Cloud of Witneſſes, incourage thy ſelf in GOD, as <hi>David</hi> did, and let the Power of the LORD GOD be ſtrong in the King, to throw down Sin, and to root out Wickedneſs out of this Nation: For be it known unto thee, O King, this Nation at this time is fit<g ref="char:EOLhyphen"/>ter
+<pb n="6" facs="tcp:65057:4"/>for Judgment then for Deliverance; for how doth all manner of Wickedneſs reign, both in Profeſſors and Pro<g ref="char:EOLhyphen"/>phane, for the one is given to their fleſhly Pleaſures, as Drunkenneſs, Feaſtings, Whoredon, and all manner of beaſtly lacivious Talking, Swearing and Lying, Cheat<g ref="char:EOLhyphen"/>ing, and all manner of Deceit: It would amaze one to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e how Youth and little Children are debaucht, their Mouthes filled with Curſing and Swearing, and all man<g ref="char:EOLhyphen"/>ner of wicked Words, as <hi>Dam,</hi> and <hi>Rot them,</hi> and ſuch Helliſh Words; and the Profeſſors of Religion out-ſtrip the Prophane: for O the Deceit, the Double-dealing, Cheating &amp; Couſening: and if their evil ends are not an<g ref="char:EOLhyphen"/>ſwered, then the Malice they are filled with, even ſeeking to deſtroy one another: And the ground wherein all this miſchief grows, is Covetouſneſs, which is Idolatry, and the root of all Evil every one ſeeking themſelves, and not the things of Chriſt, who ſaid, <hi>Ye cannot be my Diſ<g ref="char:EOLhyphen"/>ciples, except ye deny your ſelves, and take up my daily Croſs, and follow me:</hi> But inſtead of this, they are become E<g ref="char:EOLhyphen"/>nemies to the Croſs of Chriſt, <hi>whoſe God is their Belly,</hi> as ſaith the Apoſtle, <hi>whoſe Glory is their Shame, who mind Earthly things.</hi> And is it not a ſhame that men that call themſelves <hi>Chriſtians,</hi> ſhould mind their Honours and Preferments into great Places? Did Chriſt and his Followers leave ſuch a Pattern? Let them bring their Lives to the Life of Chriſt, and ſee how like they are to His; this is the cauſe why they do not profit the people, becauſe their minds are in the Earth; and be<g ref="char:EOLhyphen"/>hold, oh King, what preaching and praying here is in this Land, but how little practiſing? What Fruits are brought forth to GOD by all this praying and preach<g ref="char:EOLhyphen"/>ing? did ever pride abound as it doth now? the holy Scriptures of Truth ſpeaks of the <hi>Jews, Iſa.</hi> 3.16. to the end, when they were departed from the Law of GOD they went a Whoring after the Abominations of
+<pb n="7" facs="tcp:65057:4"/>the <hi>Heathen,</hi> and one of their Whoriſh Inventions was, they made them <hi>Round Tyers like the Moon;</hi> for which the Prophet proclaims the heavy Judgments of GOD againſt them.</p>
+            <p>But what may we call the Dreſſes of the profeſt Chriſtians of our Time? the Tower of <hi>Babel,</hi> or the Whore of <hi>Babylon's</hi> triple Crown? Oh ye Rebellious Daughters, who have Ears but hear not, Hearts but do not underſtand, that the long Suffering of the <hi>LORD</hi> ſhould lead you to Repentance; Oh ye Proud ſtiff<g ref="char:EOLhyphen"/>necked and Rebellious People, do you thus requite the <hi>LORD</hi> for all his kind and gentle dealing, which ſhould humble you in the duſt before Him; ye Rebelli<g ref="char:EOLhyphen"/>ous Ones, with what face or pretence of Piety can you appear before the pure and holy <hi>GOD</hi> in your Congre<g ref="char:EOLhyphen"/>gations to worſhip? with your proud Hearts, your ſtait<g ref="char:EOLhyphen"/>ly Carriages, your lofty looks, your towered Thoughts, thinking you are Gods with your high towered Heads, which makes you look exalted to the Skies, with all the reſt of your rich &amp; gorgious Attires, fitter for the <hi>Heathen</hi> Stage-Players than for <hi>Chriſtians:</hi> I ſay, can you ap<g ref="char:EOLhyphen"/>proach before this great and Almighty <hi>GOD,</hi> and not be abaſed and confounded before Him? Know you not that <hi>His</hi> all-ſeeing Eye beholds your Idolatry? and if his MAJESTY looks upon you in Anger, ye are conſumed to nothing, and muſt return to the Duſt from whence ye came, for the Worms to feed on your deli<g ref="char:EOLhyphen"/>cate Carkaſſes, for which your precious time hath been ſpent in taking care for to feed it Voluptuouſly, and to adorn it exceſſively, and then to love and admire it ſo, as to worſhip and adore it: Now which are the great<g ref="char:EOLhyphen"/>eſt Idolaters, they that worſhip the Sun, Moon and Stars, the glorious Creatures, which repreſent the Glory of <hi>GOD,</hi> or you that worſhip your ſinful Fleſh? Ye great Idolaters, do you think that <hi>GOD</hi> created you for
+<pb n="8" facs="tcp:65057:5"/>this purpoſe, to Love your ſelves, Admire your ſelves, to Kiſs your own Hands, ſaying to your proud Fleſh; I will Honour and Worſhip thee, thou art my God, (for this know, <hi>his Servants ye are, whom you obey</hi>) and then go and ſtand in your Idols Temple, to Mock GOD, and bid Defiance to His Spirit of Grace, ſaying, we are delivered to do all theſe Abominations!</p>
+            <p>I ſpeak this to all ſorts of Profeſſors, from the higheſt in profeſſion to the loweſt of them that call them<g ref="char:EOLhyphen"/>ſelves <hi>Chriſtians,</hi> for the one is as deeply guilty of loving themſelves, their own Ways and evil Works of earthly Mindedneſs and Covereouſneſs, which is Idolatry; as the Prophain is of their Prophainneſs: <hi>Oh Everlaſting GOD, what Lamentation ſhall be taken up for both theſe, which are gone away from thy VVays like loſt Sheep!</hi> But oh ye <hi>Ido<g ref="char:EOLhyphen"/>laters,</hi> who call your ſelves <hi>Chriſtians;</hi> go you to the Wars of <hi>Jeruſalem,</hi> and read there what the LORD did for the wickedneſs of that People who were call'd <hi>Jews:</hi> &amp; do you think to eſcape the juſt Judgments of GOD for your Sins, becauſe you are call'd <hi>Chriſtians,</hi> though out of His Life, No, No, that Covering will be too ſhort in the Day of Ac<g ref="char:EOLhyphen"/>count; and though ſome of you may ſay, <hi>We have Eaten and Drunk in Thy Preſence, and in thy Name done many wonderful VVorks,</hi> yet not perſevering to the end of all Iniquity, this will be your Portion, <hi>Depart from me ye Workers of Iniquity, I know you not.</hi>
+            </p>
+            <p>And now having in ſome meaſure cleared my Conſci<g ref="char:EOLhyphen"/>ence, by doing as I am commanded, to ſpeak the Truth to my Neighbours, I Expect the ſame meaſure from thoſe that are guilty in this matter to caſt a Stone at me, as they did at the faithful Servants of the LORD of old: Poor ſuffering <hi>Jeremiah,</hi> was ſo ſorely tryed, that he ſaid, <hi>Wo is me, my Mother, that thou haſt born me, a Man of Contention and Strife to the whole Earth.</hi> And that holy Prophet <hi>Iſaiah,</hi> who ſaid to the Scoffers of his time,
+<pb n="9" facs="tcp:65057:5"/>
+               <hi>Iſa.</hi> 57.3. <hi>O ye Sons of the Sorceroſs, the Seed of the Adulterers,</hi> &amp;c. <hi>On whom have ye jeſted? upon whom have ye gaped and thruſt out your Tongues?</hi> Are not ye Rebellious Children and falſe Seed <hi>inſtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with Idols?</hi> And my bleſſed <hi>Savi<g ref="char:EOLhyphen"/>our,</hi> the Everlaſting GOD manifeſt in Fleſh, when He went to Dye upon the Croſs for their Sins, they beat Him and mocked Him, ſaying, <hi>Propheſie who ſmote Thee;</hi> ſo I muſt take my Lot among theſe bleſſed Ones, though un<g ref="char:EOLhyphen"/>worthy; but I will get me into the ſecret of His Pavili<g ref="char:EOLhyphen"/>on, under the Shadow of the Almighty, where I ſhall be hid from the ſtrife of Tongues.</p>
+            <p>And now, O KING. I hope thy Goodneſs will paſs by my Treſpaſs in this long Diſcourſe, wherein I have been ingaged to bear my Teſtimony againſt the Sins of the people of this Nation, which cries aloud in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Ears of the LORD for Vengeance; and ſeeing I intend nothing but what is good for the King and his People, I deſire to have Liberty to eaſe my ſelf of the burden which hath lain upon me many years before thou cameſt into this Na<g ref="char:EOLhyphen"/>tion. For be it known unto the King, I have feared the LORD, and loved the holy Scripture from my Youth up until this day; and in my ſearching after the LORD I paſt through many things, which would be too tedious to mention here.</p>
+            <p>About a quarter of a Year before the <hi>Plague</hi> began in <hi>London,</hi> the LORD commanded me to go to <hi>Briſtol,</hi> and call them to Repentance, before the terrible Day of the LORD, and ſo I went a Foot, and when I came thither, at the Command of GOD I put on Sack-cloth on my Bo<g ref="char:EOLhyphen"/>dy, and Aſhes on my Head; and when I had delivered my Meſſage, the next day I returned towards <hi>London,</hi> where I came to my Husband and Family in ten Days time, or the tenth Day of my parting from, them, lea<g ref="char:EOLhyphen"/>ving a young Child of a Year old that ſuck'd at my Breaſt,
+<pb n="10" facs="tcp:65057:6"/>and found all things well, my ſelf alſo, ſo well as if I had not gon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Mile, although a weak Woman of Bo<g ref="char:EOLhyphen"/>dy, and not able to go two Miles without Pain, yet in the ſtrength of the LORD I went almoſt two Hundred Miles a Foot, Glory be to GOD forever.</p>
+            <p>And after a great Exerciſe of Faſting &amp; Prayer which lay upon me, I was <hi>commanded</hi> to go out of my own Houſe Sack-cloth and Aſhes, and proclaim the terrible Day of the LORD, that ſhould burn as an Oven; crying <hi>Wo, wo, wo unto the Inhabitants of this City, Deſolation upon Deſolation, and Wo upon Wo;</hi> then preſently the <hi>Plague</hi> began in the City; and for too Weeks after the <hi>Plague</hi> began, I thought I ſhould never have had reſt more, for day and night I was like a Woman in ſtrong Travel, all over in ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king Pain, I trembled that my Knees ſtruck one againſt another, and as the weight of a Mill Stone upon my Spirit, I cryed bitterly to the LORD, and ſaid, <hi>Oh Righteous LORD, if Thou remove not this bur<g ref="char:EOLhyphen"/>den, then I cannot live;</hi> then the LORD anſwered, and ſaid, <hi>It is the burden of the Iniquities of the Nation I have laid upon thee, and thou muſt bear my Indignation, for thou art their Sign of the Repentance and Humiliation I require of them:</hi> then I knew what the Prophet <hi>Habakkuk</hi> meant when his Lips quivered, his Belly trembled, and rotten<g ref="char:EOLhyphen"/>neſs had entered his Bones; then I had a little eaſe for the preſent, but the great Exerciſe remained ſtill, going in Sack-cloth and Aſhes, and calling the People to Re<g ref="char:EOLhyphen"/>pentance; but when I had performed my Service, and done all that the LORD required of me; Oh the ſweet melting conſolating Love my Heart and Soul was filled with to GOD for His goodneſs, in giving me ſtrength to do His bleſſed Will, and was ſo humbled, I could have lick<g ref="char:EOLhyphen"/>ed the Duſt; then I threw my Body upon the ground, and my Mouth in the Duſt, that GOD might be Exalted;
+<pb n="11" facs="tcp:65057:6"/>then I had Beauty given me for Aſhes, yea, the Beauty of His Holineſs; I had the Garment of Praiſe for the Spi<g ref="char:EOLhyphen"/>rit of heavineſs, for my Mouth was filled with Praiſes, and my Heart with Heavenly Halaluj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hs; I went about doing Good, viſiting the Sick, and relieving the Poor; I had the Word of the LORD to many Families, to tell them that their Viſitation drew near, calling them to Repentance. Praiſes be to Him that lives forever; for the <hi>LORD</hi> had not only ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his Love in my Heart, but filled my Heart and Rains ſo full, that it run as a Ri<g ref="char:EOLhyphen"/>ver to ill mankind, for their Redemption out of their fallen Eſtate; but this encreaſed my outward Afflicti<g ref="char:EOLhyphen"/>ons, and the inward Travel of my Soul, ſo that I never heard of any that went through the like in this latter Age: I was much exerciſed with faſting, at the Com<g ref="char:EOLhyphen"/>mand of the <hi>LORD</hi> I Faſted three days, and three nights, without any Suſtenance; and eat Bread and drank Water ſix days together, for a Witneſs againſt their Feaſting and Drinking high Spirits, to keep the <hi>Plague</hi> from their Hearts, but alas, they were Phiſitians of no value; but it pleaſed the LORD to preſerve me and mine, at that Time, and for many years after, until it pleaſed Him to prepare my dear Children for Himſelf, and then <hi>He</hi> took them out of all the Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res and Temp<g ref="char:EOLhyphen"/>tations of this ſinful Life, to their everlaſting Joy and His eternal Praiſe, World without end, <hi>Amen,</hi> Then I enquired of the <hi>LORD</hi> why He took them away in their youth; and He ſaid, <hi>Becauſe</hi> of their Fathers evil Life, and in order for my deliveran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to the Work He had called me to; then the <hi>LORD</hi> Commanded me to depart from the Multitude, and from all the concerns of this World, to ſeek H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n apart; to give up Name and Fame, and whatſoever was dear to me in this Life, Body, Soul and Spirit, to ſerve the <hi>LORD</hi> as he re<g ref="char:EOLhyphen"/>quired
+<pb n="12" facs="tcp:65057:7"/>me, (that was in Faſting and Prayer) which was alſo to be a ſign to the Multitude, of the Worſhip which the <hi>LORD</hi> required of them; but the Afflicti<g ref="char:EOLhyphen"/>ons I went through at that time is beyond my Tongue of Fleſh to declare; then after all this the <hi>LORD</hi> com<g ref="char:EOLhyphen"/>manded me to go in Sackcloth and ſhes three days, and to wear Sackcloth three years, which I did, till after the dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of King <hi>Charles</hi> the ſecond.</p>
+            <p>And now, O KING, I am required to viſit thee, and to lay before thee what the <hi>LORD</hi> requires of thee, which is, <hi>To do Juſtly, and to ſhew Mer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and to walk humbly with thy GOD, and not to fear Man, whoſe Breath is in his Noſtrils, nor to put thy truſt in the Arm of Fleſh, but in the living GOD;</hi> for it is written, <hi>Wo unto them that go down into</hi> Egypt <hi>for help;</hi> It is alſo written, <hi>Bleſ<g ref="char:EOLhyphen"/>ſed be the Man that truſteth in the LORD, and whoſe hope the LORD is, for he ſhall be as a Tree that is planted by the Waters, which ſpreadeth out her roots by the Rivers, and ſhall not feel when the heat cometh, but her leaf ſhall be green, and ſhall not care for the year of drowth, neither ſhall ceaſe from yielding Fruit, yea, Bleſſed ſhall he be in his going out, and in his coming in;</hi> for the <hi>LORD</hi> ſhall bleſs him with an everlaſting Bleſſing, which ſhall be better than the Bleſ<g ref="char:EOLhyphen"/>ſing of his Anceſtors: Therefore O King, be Valiant for the Truth upon Earth, and give not thy Strength unto others, nor thy Power and Wiſdom to Men, but ſerve the <hi>LORD with all thy Strength, and with all thy Might,</hi> for this the <hi>LORD</hi> requirs of thee, and give it not to Men to ſerve their evil ends.</p>
+            <p>And in order to the carrying on of this great Work which I have been treating of, my humble Requeſt to the King is, that he would be pleaſed to take Chriſt for his Example in this thing, to with-draw often from the Multitude, and to retire into his own Soul, there to at<g ref="char:EOLhyphen"/>tend
+<pb n="13" facs="tcp:65057:7"/>upon the <hi>Lord</hi> very deligently in Faſting and Prayer, asking Counſel of the <hi>LORD</hi> how to order his Affairs as may be moſt for the Glory of <hi>GOD,</hi> and then <hi>The</hi> GOD <hi>of Peace make the King<g ref="char:punc">▪</g> perfect in all good Works, to do His moſt acceptable Will, working in him that which is pleaſant in His ſight, to whom be Everlaſting Praiſe for evermore, Amen.</hi>
+            </p>
+            <p>From one that is of no Sect or gathered People whatſo<g ref="char:EOLhyphen"/>ever, yet I love the good in all, but the evil I ablior; ſo I walk alone as a Woman forſaken; I have fellowſhip with them that Lived in Caves, and in Dens, and de<g ref="char:EOLhyphen"/>ſolate places of the Earth, of whom the World was not worthy.</p>
+            <closer>
+               <signed>J. VV.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>O Ye Church and People of <hi>England!</hi> what did you ſend for King <hi>William</hi> our of his own Country, and turn out King <hi>James?</hi> You ſaid it was to ſet up the <hi>Chriſtian Religion,</hi> and to Eſtabliſh it: Why is it not done? What have you been a doing all this while, ma<g ref="char:EOLhyphen"/>king proviſion to ſet up your ſelves? For the <hi>Chriſtian Religion</hi> is not ſet up: you know what that is, <hi>To for<g ref="char:EOLhyphen"/>ſake the Devil and all his W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rks, the Pomps and Vanities of this wicked World and all the ſinful Luſts of the Fleſh, and to keep GOD's W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll and Commandments, and to walk in the ſame all the days of your Lives.</hi> So you ſee the Chriſtian Religion ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws you what the Devil's Works are, that they are <hi>the Pomps and the Vanities of this wicked World,
+<pb n="14" facs="tcp:65057:8"/>and the ſinful Laſts of the Fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh.</hi> And Chriſt's command is, <hi>Learn of me, for I am Meek and Lowly, and you ſhall find Reſt to your Souls:</hi> And Chriſt's command is, <hi>Love your Enemies, do good to them that hate you:</hi> And Chriſt's com<g ref="char:EOLhyphen"/>mand is, <hi>Let your Light ſo ſhine, that men may ſee your good Works, and glorifie your heavenly rather:</hi> Theſe are the Commands of Chriſt, with all the reſt that I have been treating of. And theſe are the Vows you have vowed in the Name of GOD, in your Baptiſm, <hi>To for<g ref="char:EOLhyphen"/>ſake the Devil and all his Works, the vain Pomps and Glory of the World, with all the Covetous Deſires of the ſame, the Carnal Deſires of the Fleſh,</hi> ſaying, <hi>I will not follow, nor be led by them: I forſake them all:</hi> This is your Promiſe. Therefore, oh ye Church and People of <hi>England,</hi> per<g ref="char:EOLhyphen"/>form your Vows which you have vowed to the GOD of Heaven, and put into practice what you have promiſed the LORD; but if you will not, then will it appear to all the World, that you did not all this to ſet up the <hi>Chri<g ref="char:EOLhyphen"/>an Religion,</hi> but to ſet up your ſelves, which if you do, GOD will pull you down; for ſaith the <hi>LORD, Them that Honours me I will Honour: but they that deſpiſe Me ſhall be aeſpiſed,</hi> 1 Sam. 2.</p>
+            <p>And oh ye Church and People of <hi>England,</hi> I am to acquaint you, that the laſt Lord Mayors Day I bore a heavy burden for your <hi>Feaſting:</hi> The <hi>LORD</hi> calls for <hi>Faſting,</hi> and you go to <hi>Feaſting:</hi> ſo that ye are guilty of the ſame Iniquity that your fore-Fathers were, for ſaid <hi>Iſaiah</hi> the Prophet in that day, <hi>Did the LROD GOD of Hoſt call into Weeping and Mourn<g ref="char:EOLhyphen"/>ing, and Baldreſs, and t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> garding with Sack-cloth; but be<g ref="char:EOLhyphen"/>hold Joy and Gladneſs, ſlaying Oxen and killing Sheep eat<g ref="char:EOLhyphen"/>ing Fleſh and drinking Wine, Eating and Drinking, for tomorrow we ſhall dye:</hi> That was all that preſumptious Generation valued, either the command of the LORD,
+<pb n="15" facs="tcp:65057:8"/>or His juſt Judgements, to make a mock at that weighty Meſſage; and yea do the ſame in your Actions, break<g ref="char:EOLhyphen"/>ing Chriſt's commands, who ſaid, <hi>When thou makeſt a Dinner or Supper, call not thy Friends, nor thy rich Neigh<g ref="char:EOLhyphen"/>bours<g ref="char:punc">▪</g> leſt they bid thee again: But when thou makeſt a Feaſt, call the Poor and the Diſtreſſed, for they cannot Re<g ref="char:EOLhyphen"/>compence thee again, but thou ſhalt be Recompenced at the Reſurrection of the Juſt.</hi> So remember your Vows which ye have vowed, oh ye Church and People! to keep GOD's <hi>holy Will and Commandments, and to walk in the ſame all the dayes of your Lives.</hi> And now, oh ye Churches and Inhabitants of <hi>England</hi> of all ſorts and Sects, be it known unto you, that thus far I am clear of your Blood by performing my Service to GOD, and my Duty to my Neighbours, whom I deſire the welfare of as my own Soul; yea, I can call Heaven and Earth to witneſs, that this is my end, even your Salvation, which will be more to you then all earthly crowns.</p>
+            <p>And that this Meſſage to you may prove ſo effectual by the Power of GOD, that you together with me in the Humility of our Souls, may caſt our ſelves with all Self-intereſt at the Feet of Chriſt Jeſus, as a ſecond <hi>Mary Magdalen,</hi> waſhing His Feet with our Tears, and wi<g ref="char:EOLhyphen"/>ping them with the Hairs of our Heads, that our cries may pierce through the Heavens to the Throne of his Grace, to move His holy and glorious MAJESTY to be merciful to us, and this poor Nation, that it may not be made an utter Deſolation for the Sins of them that live therein.</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend, ready to ſerve you to the utmoſt of my Power according to the Will of GOD.</hi> J. Whitrowe.</signed>
+               <dateline>
+                  <hi>Eaſt-ſheen,</hi> near <hi>Mortlock,</hi>
+                  <date>the 2d of the 10th Month, 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
